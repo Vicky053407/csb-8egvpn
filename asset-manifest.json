@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://vicky053407.github.io/csb-8egvpn/static/css/main.fc5c2c69.css",
+    "main.js": "https://vicky053407.github.io/csb-8egvpn/static/js/main.7e864c43.js",
+    "index.html": "https://vicky053407.github.io/csb-8egvpn/index.html",
+    "main.fc5c2c69.css.map": "https://vicky053407.github.io/csb-8egvpn/static/css/main.fc5c2c69.css.map",
+    "main.7e864c43.js.map": "https://vicky053407.github.io/csb-8egvpn/static/js/main.7e864c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.7e864c43.js"
+  ]
+}
